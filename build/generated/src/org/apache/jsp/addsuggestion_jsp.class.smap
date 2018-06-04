@@ -1,0 +1,15 @@
+SMAP
+addsuggestion_jsp.java
+JSP
+*S JSP
+*F
++ 0 addsuggestion.jsp
+addsuggestion.jsp
+*L
+5,20:44
+25:64,3
+26,5:67
+31,4:72,3
+35:84,7
+36,6:91
+*E
