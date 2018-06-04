@@ -1,0 +1,131 @@
+img{
+    width:100px;
+    height:27px;
+}
+
+#div1
+{
+    padding-left: 5px;
+}
+body{
+    background-image: url("bck.jpg");
+    /* background-color: rgba(255,255,255,0.2); */
+    /* background-blend-mode: lighten; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 100%100%; */ 
+    /* background-color: #173f42; */
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+   
+
+     
+}
+
+#suggestion{
+    display: none;
+}
+#main{
+    background-color: white;
+    padding-top:10px;
+}
+#user{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+}
+#home{
+        border-top: 1px solid lightblue;
+        border-bottom: 1px solid lightblue;
+        background-color :lightcyan;
+        height : 30px;
+}
+
+#left{
+  margin-left: 8%;
+}
+.btn-sq-lg {
+    width: 150px;
+    height: 150px;
+  }
+#outline{
+    border : 1px solid lightskyblue;
+    margin-left: 1%;
+}
+#outline1{
+  border : 1px solid lightskyblue;
+  margin-left: 4%;
+}
+#footer {
+    background-color: rgb(235, 233, 233);
+    color:black;
+    text-align: center;
+    margin-top: 30%
+ }
+ #text
+ {
+    font-family: 'Yesteryear';
+    font-size: 22px;
+ }
+ 
+ #fa {
+    padding: 2px;
+    text-align: center;
+    margin: 4px 1px;
+    border-radius: 50%;
+  }
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+#div1{
+    padding-left: 100px
+}
+#category
+{
+    padding-left:400px;
+    display: none;
+}
+#hostel_form
+{
+    display: none;
+}
+#transportation_form
+{
+    display: none;
+}
+#infrastructure_form
+{
+    display: none;
+}
+#others_form
+{
+    display: none;
+}

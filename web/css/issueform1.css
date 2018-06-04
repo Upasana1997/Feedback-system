@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 15, 2018, 3:21:05 PM
+    Author     : Dell
+*/
+
+.form-label-left{
+        width:150px;
+    }
+    .form-line{
+        padding-top:12px;
+        padding-bottom:12px;
+    }
+    .form-label-right{
+        width:150px;
+    }
+    body, html{
+        margin:0;
+        padding:0;
+        background:rgba(155,155,155,0.51);
+    }
+    
+
+    .form-all{
+        margin-left: 50px !important;
+        padding-top:0px;
+        width:800px;
+        color:#6a4a3c !important;
+        font-family:'Terminal Dosis Light';
+        font-size:16px;
+    }
+    .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{
+        color: Black;
+    }
